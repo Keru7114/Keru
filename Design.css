@@ -1,0 +1,233 @@
+body{
+    width: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background: #02A89E;
+    height: 40px;
+    width: auto;
+}
+nav ul li{ 
+    color: ghostwhite; 
+    float: left;
+    margin-left:30px;
+    line-height: 40px;
+}
+.Header{
+    margin-left: 50px;
+    list-style: none ;
+}
+.Header1{
+    color: ghostwhite; 
+    float: left;
+    margin-left:5px;
+    line-height: 40px;
+}
+.Header2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 29px;
+    top: 21px;
+    margin-left: 83%;
+    height:30px;
+    width: 155px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    position: absolute;
+}
+.Header4{
+    margin-top:5px;
+    margin-left: 90px;
+    width: 190px;
+    height: 45px;
+}
+.Header5{
+    margin-top: 20px;
+    color: gray; 
+    float: right;
+    margin-right:85px;
+    line-height: 5px;
+}
+.Header6{
+    width: 100%;
+    height: max-content;
+}
+.Header7{
+    margin-left: 70px;
+    height: 280px;
+    width: 480px;
+    background-color: rgba(0, 0, 0, 0.534);
+    color: white;
+    position: absolute;
+    top: 900px;
+}
+p{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.Header8{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Header9{
+    width: 1300px;
+}
+.Header10{
+    width: 100%;
+    height: max-content;
+    
+}
+.Header11{
+    width: 100%;
+    height: max-content;
+}
+.Header12{
+    margin-left: 70px;
+    height: 210px;
+    width: 990px;
+    background-color: rgba(0, 0, 0, 0.534);
+    color: white;
+    position: absolute;
+    top: 2820px;
+}
+p1{
+    line-height: 100px;
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Header13{
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: Arial;
+
+}
+p2{
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: Arial;
+
+}
+p3{
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: Arial;
+
+}
+.Header14{
+    margin-left: 140px;
+    height: 50px;
+    width: 320px;
+    background-color: #02a89e;
+    color: white;
+    position: absolute;
+    top: 3130px;
+}
+p5{
+    line-height: 50px;
+    margin-left: 43px;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Header19  {
+    margin-top: 3%;
+    width: 60%;
+    height: max-content;
+}
+.Header20{
+    margin-left: 120px;
+    position: absolute;
+    top: 3620px;
+    font-size: 30px;
+}
+.Header21{
+font-size: 30px;
+margin-left: 290px; ;
+position: absolute;
+top: 3860px;
+}
+.Header22{
+font-size: 30px;
+margin-left: 790px; ;
+position: absolute;
+top: 3890px;
+}
+.Header23{
+padding-top: 3px;
+height: 70px;
+background: #2D2D2D;
+color:white;
+
+}
+h2{
+font-size: 43px;
+margin: 0.6%;
+}
+.icon{
+    
+    margin-left: 120px;
+    margin-top: 1%;
+    width: 1100px;
+    height: 1101;
+    position: absolute;
+}
+.icon1{
+    font-size: 20px;
+    color: black;
+    margin-top: 180px;
+    margin-left: 168px;
+    position: absolute;
+}
+.icon2{
+    font-size: 20px;
+    color: black;
+    margin-top: 180px;
+    margin-left: 404px;
+    position: absolute;
+}
+.icon3{
+    font-size: 20px;
+    color: black;
+    margin-top: 180px;
+    margin-left: 630px;
+    position: absolute;
+    
+}
+.icon4{
+    font-size: 20px;
+    color: black;
+    margin-top: 180px;
+    margin-left: 876px;
+    position: absolute;
+}
+.icon5{
+    font-size: 20px;
+    color: black;
+    margin-top: 180px;
+    margin-left: 1080px;
+    position: absolute;
+}
+.Header24{
+    margin-left: 450px;
+    height: 45px;
+    width: 450px;
+    background-color: #02a89e;
+    color: white;
+    margin-top: 260px;
+    position: absolute;
+}
+
+p6{
+    position: absolute;
+    line-height: 45px;
+    margin-left: 90px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Comment{
+    background-color: white;
+    height: 2000px;
+    width: max-content;
+}
+
